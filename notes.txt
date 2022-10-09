@@ -1,0 +1,5 @@
+to install redux we use
+1. npm i redux react-redux redux-thunk
+
+
+bind action creators is used to bind dispatch functions and action creators
